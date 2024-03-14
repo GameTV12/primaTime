@@ -2,7 +2,7 @@
 
 To je testový úkol pro primaTime - ComboBox
 
-Pro spuštění: `-npm run dev`
+Pro spuštění: `npm i` a `npm run dev`
 
 http://localhost:5173
 
